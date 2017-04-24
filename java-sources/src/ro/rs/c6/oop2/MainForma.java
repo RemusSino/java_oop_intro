@@ -16,5 +16,8 @@ public class MainForma {
 
         System.out.println(cerc);
         System.out.println(patrat);
+
+        // ce facem daca vrem sa apelam spre exemplu patrat.calculeazaAria() ?
+        //
     }
 }
